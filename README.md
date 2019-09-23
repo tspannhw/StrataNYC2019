@@ -1,14 +1,47 @@
 # StrataNYC2019
 Strata NYC 2019
 
+# Author Information
+
+Timothy Spann
+
+@PaasDev
+
+https://conferences.oreilly.com/strata/strata-ny/public/schedule/speaker/346018
+
+https://conferences.oreilly.com/strata/strata-ny/public/schedule/detail/77823
+
+
+
+# Resources
+
+https://www.datainmotion.dev/2019/08/edge-processing-with-jetson-nano-part-3.html
+
+https://www.datainmotion.dev/2019/07/edge-processing-with-jetson-nano-part-2.html
+
+https://www.datainmotion.dev/2019/07/edge-data-processing-with-jetson-nano.html
+
+https://www.datainmotion.dev/2019/07/powering-edge-ai-with-powerful-jetson.html
+
+https://www.datainmotion.dev/2019/08/rapid-iot-development-with-cloudera.html
+
+https://www.datainmotion.dev/2019/08/efm-series-using-minifi-agents-on.html
+
+https://www.datainmotion.dev/2019/03/using-sensors-at-scale-on-edge-part-1.html
+
+
+
+# Source Code
+
+
+https://github.com/tspannhw/minifi-jetson-nano
+
+https://github.com/tspannhw/gtfs
 
 
 
 
-
-
-
-
+# Do No Harm
 
 https://firstdonoharm.dev/version/1/0/license.html
 
